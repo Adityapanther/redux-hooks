@@ -12,7 +12,7 @@ I was working on one of my project on flutter And I saw that there is requiremen
 
 # issues
 
-please report any issue on [bug reports]('https://github.com/Adityapanther/redux-hooks')
+please report any issue on [bug reports](https://github.com/Adityapanther/redux-hooks)
 
 <br>
 
