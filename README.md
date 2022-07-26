@@ -12,7 +12,7 @@ I was working on one of my project on flutter And I saw that there is requiremen
 
 # issues
 
-please report any issue on [bug reports](https://github.com/Adityapanther/redux-hooks)
+please report any issue on [bug reports](https://github.com/Adityapanther/redux-hooks/issues)
 
 <br>
 
@@ -39,7 +39,7 @@ Future<void> main() async {
 ```
 
 
-### 2) dispacth any action
+### 2) dispatch any action
 
 ```dart
 class Home extends StatelessWidget {
@@ -64,7 +64,7 @@ class Home extends StatelessWidget {
 
 
 
-### 3) listen state with `StateProvider` widget
+### 3) Listen state with `StateProvider` widget
 
 ```dart
 class Home extends StatelessWidget {
