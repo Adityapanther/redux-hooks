@@ -1,3 +1,9 @@
 ## 1.0.0
 
-* TODO: Describe initial release.
+* initial release.
+
+## 1.0.1
+
+* documentation typo issue fixed.
+* removed unnecessary code.
+* improved pub point

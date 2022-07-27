@@ -10,6 +10,7 @@ I was working on one of my project on flutter And I saw that there is requiremen
 
 <br>
 
+
 # issues
 
 please report any issue on [bug reports](https://github.com/Adityapanther/redux-hooks/issues)
@@ -17,7 +18,10 @@ please report any issue on [bug reports](https://github.com/Adityapanther/redux-
 <br>
 
 
-
+# add dependency 
+```yaml
+ redux_hooks: ^1.0.1
+```
 
 
 
@@ -96,6 +100,13 @@ class Home extends StatelessWidget {
 #  Example
 
 for full example please visit: - https://github.com/Adityapanther/redux-hooks/tree/main/example
+
+<br>
+
+
+#  Upcoming Features
+
+* web support
 
 <br>
 
