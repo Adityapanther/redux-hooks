@@ -1,5 +1,4 @@
 import 'package:redux/redux.dart';
-import 'package:redux_hooks/src/redux_hooks_error.dart';
 import 'package:redux_hooks/src/store_holder.dart';
 
 class ReduxHooks {
@@ -10,9 +9,6 @@ class ReduxHooks {
 
   // get redux store
   static Store getStore() {
-    if (StoreHolder.store == null) {
-      ReduxHooksError.hookInitError;
-    }
     return StoreHolder.store;
   }
 
