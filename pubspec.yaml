@@ -1,5 +1,5 @@
 name: redux_hooks
-description: A redux hooks for flutter.
+description: A redux hooks for flutter project. which will help you to dispatch and listen any action.
 version: 1.0.0
 homepage: https://github.com/Adityapanther/redux-hooks
 repository: https://github.com/Adityapanther/redux-hooks
